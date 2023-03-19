@@ -1,0 +1,3 @@
+ini adalah document 2
+
+dan ini juga adalah line 2 dari document 2
